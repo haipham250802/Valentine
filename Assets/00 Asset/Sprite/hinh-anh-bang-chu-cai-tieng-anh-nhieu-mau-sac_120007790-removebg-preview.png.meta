@@ -1,0 +1,719 @@
+fileFormatVersion: 2
+guid: 01a7364e92798af4fafc674a75a72de8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 307
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd102d244545ab43b2dd0a787d8ee8b
+      internalID: -776470293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 304
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9c217b2cf26ba45b1be39b6e494bc6
+      internalID: -274447461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 306
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b373983f764eed54a9dbea477989dd38
+      internalID: 2113686957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 308
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958d2597d76dfe74c98106173213bea8
+      internalID: 1145981847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 305
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3087de2756009b64ca8716b7c998b3f9
+      internalID: -759914654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 307
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a06ca9794b18b46a90308742c61b3c
+      internalID: 2068900749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 306
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7485acdbe92fd8d4797b5ece5fe40769
+      internalID: -184507861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 210
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18d11d72c5c4b54290c4fda8c2f3f8f
+      internalID: -1476765913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 212
+        width: 28
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e50dff2868d7b6428b711003a43993b
+      internalID: -2105823474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 211
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8015a709364e8c4a842b19214bff0f5
+      internalID: -169541842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 212
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a5f42e8165c58498dc7a989c13648d
+      internalID: 273430014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 212
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bbf906d404d9348924a8341a73d985
+      internalID: -597651225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 213
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cf474f0e0859245ad8182924efc42c
+      internalID: 1067671278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 211
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4010817b465d3479d2ab26cae98a70
+      internalID: -875460963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 122
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036a4e0409207a04083ceb61f6d8d497
+      internalID: 535141391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 122
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51137a53bfcce2944a57b0d4dbf4bff3
+      internalID: -1292298061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 120
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec2972ed68ca2047a81d622ce27e0d1
+      internalID: 1491451354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 123
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdc222322144c24d8fc2aac0f401ab4
+      internalID: -1757818694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 123
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723fba1f24fd683489a0a3fac7272509
+      internalID: 753032229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 122
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786511570d39c084295099e9bfbf4d6e
+      internalID: -525295358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 122
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16baeffd108217341bb1cbe25ba191a9
+      internalID: -107153828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c80870cd80503468d60bc2d8c172e7
+      internalID: 990055000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 35
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9072b65f6724d49a452930653d5488
+      internalID: -913598477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 33
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52af00f2856db894998bbb174837197a
+      internalID: 836421704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 33
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e8a036e9304f14b812d6ae85e70ec7
+      internalID: 961884807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 33
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60be167401cbe0b429c88a3c5c46ef01
+      internalID: 802886529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_18: 753032229
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_3: 1145981847
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_13: -875460963
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_21: 990055000
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_2: 2113686957
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_23: 836421704
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_22: -913598477
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_17: -1757818694
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_5: 2068900749
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_4: -759914654
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_7: -1476765913
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_16: 1491451354
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_1: -274447461
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_8: -2105823474
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_12: 1067671278
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_19: -525295358
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_24: 961884807
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_0: -776470293
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_11: -597651225
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_14: 535141391
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_10: 273430014
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_9: -169541842
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_6: -184507861
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_20: -107153828
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_25: 802886529
+      hinh-anh-bang-chu-cai-tieng-anh-nhieu-mau-sac_120007790-removebg-preview_15: -1292298061
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
